@@ -1,2 +1,0 @@
-sUser-agent: *
-Disallow: /cgi-bin
